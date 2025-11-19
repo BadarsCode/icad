@@ -145,12 +145,12 @@ body {
 
 .overlay {
     position: absolute;
-    bottom: 20px;
-    left: 20px;
+    bottom: 0px;
+    left: 0px;
     right: 20px;
     background-color: rgba(255,255,255,0.9);
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 0px;
     opacity: 0;
     transform: translateX(-20px);
     transition: all 0.3s ease;
